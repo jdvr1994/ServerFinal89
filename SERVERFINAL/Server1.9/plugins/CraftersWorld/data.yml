@@ -1,0 +1,110 @@
+mapas:
+  mapa1:
+    nombre: Fluency
+    x: 423
+    y: 55
+    z: 205
+    juego: parkour
+    spawns:
+      numero: 5
+      spawn1:
+        x: 92
+        y: 39
+        z: 151
+      spawn2:
+        x: 82
+        y: 39
+        z: 151
+      spawn3:
+        x: 72
+        y: 39
+        z: 151
+      spawn4:
+        x: 62
+        y: 39
+        z: 151
+      spawn5:
+        x: 52
+        y: 39
+        z: 151
+      spawn6:
+        x: 0
+        y: 0
+        z: 0
+    checkpoints:
+      checkpoint1:
+        x: 89
+        y: 38
+        z: 129
+      numero: 5
+      checkpoint2:
+        x: 92
+        y: 44
+        z: 114
+      checkpoint3:
+        x: 93
+        y: 48
+        z: 101
+      checkpoint4:
+        x: 93
+        y: 49
+        z: 78
+      checkpoint5:
+        x: 93
+        y: 48
+        z: 64
+  mapa2:
+    nombre: Hebertism
+    x: 423
+    y: 55
+    z: 206
+    juego: parkour
+    spawns:
+      numero: 1
+      spawn1:
+        x: 93
+        y: 39
+        z: 151
+      spawn2:
+        x: 0
+        y: 0
+        z: 0
+      spawn0:
+        x: 0
+        y: 0
+        z: 0
+      spawn3:
+        x: 0
+        y: 0
+        z: 0
+      spawn4:
+        x: 0
+        y: 0
+        z: 0
+      spawn5:
+        x: 0
+        y: 0
+        z: 0
+    checkpoints:
+      numero: 3
+      checkpoint1:
+        x: 92
+        y: 38
+        z: 129
+      checkpoint2:
+        x: 93
+        y: 39
+        z: 99
+      checkpoint3:
+        x: 93
+        y: 39
+        z: 64
+  mapa3:
+    nombre: a
+    x: 0
+    y: 0
+    z: 0
+    juego: a
+  parkour: 2
+  skywars: 0
+  navalwars: 0
