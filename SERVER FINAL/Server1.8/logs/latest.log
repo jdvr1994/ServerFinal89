@@ -1,0 +1,596 @@
+[21:29:36] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[21:29:36] [Server thread/INFO]: Loading properties
+[21:29:36] [Server thread/INFO]: Default game type: SURVIVAL
+[21:29:37] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1649 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[21:29:37] [Server thread/INFO]: Debug logging is disabled
+[21:29:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:29:37] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:29:37] [Server thread/INFO]: Generating keypair
+[21:29:37] [Server thread/INFO]: Starting Minecraft server on *:25567
+[21:29:37] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[21:29:37] [Server thread/INFO]: [CraftersWorld] Loading CraftersWorld v1.0-SNAPSHOT-260306
+[21:29:37] [Server thread/INFO]: [SkyWars] Loading SkyWars v1.0-SNAPSHOT-260306
+[21:29:37] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[21:29:37] [Server thread/INFO]: [ParkourRace] Loading ParkourRace v1.0-SNAPSHOT-260306
+[21:29:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:29:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:29:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:29:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:29:37] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[21:29:37] [Server thread/INFO]: Preparing level "world"
+[21:29:37] [Server thread/INFO]: -------- World Settings For [world] --------
+[21:29:37] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[21:29:37] [Server thread/INFO]: Clear tick list: false
+[21:29:37] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:29:37] [Server thread/INFO]: View Distance: 10
+[21:29:37] [Server thread/INFO]: Mob Spawn Range: 4
+[21:29:37] [Server thread/INFO]: Anti X-Ray: true
+[21:29:37] [Server thread/INFO]: 	Engine Mode: 1
+[21:29:37] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[21:29:37] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[21:29:37] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:29:37] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:29:37] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:29:37] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:29:37] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:29:37] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:29:37] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:29:37] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:29:37] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[21:29:37] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:29:37] [Server thread/INFO]: Alternative Hopper Ticking: false
+[21:29:37] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[21:29:37] [Server thread/INFO]: Random Lighting Updates: false
+[21:29:37] [Server thread/INFO]: Structure Info Saving: true
+[21:29:37] [Server thread/INFO]: Sending up to 5 chunks per packet
+[21:29:37] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:29:37] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:29:37] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:29:37] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:29:37] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:29:37] [Server thread/INFO]: Max Entity Collisions: 8
+[21:29:37] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[21:29:37] [Server thread/INFO]: Max TNT Explosions: 100
+[21:29:37] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[21:29:37] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[21:29:37] [Server thread/INFO]: Clear tick list: false
+[21:29:37] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:29:37] [Server thread/INFO]: View Distance: 10
+[21:29:37] [Server thread/INFO]: Mob Spawn Range: 4
+[21:29:37] [Server thread/INFO]: Anti X-Ray: true
+[21:29:37] [Server thread/INFO]: 	Engine Mode: 1
+[21:29:37] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[21:29:37] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[21:29:37] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:29:37] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:29:37] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:29:37] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:29:37] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:29:37] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:29:37] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:29:37] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:29:37] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[21:29:37] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:29:37] [Server thread/INFO]: Alternative Hopper Ticking: false
+[21:29:37] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[21:29:37] [Server thread/INFO]: Random Lighting Updates: false
+[21:29:37] [Server thread/INFO]: Structure Info Saving: true
+[21:29:37] [Server thread/INFO]: Sending up to 5 chunks per packet
+[21:29:37] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:29:37] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:29:37] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:29:37] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:29:37] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:29:37] [Server thread/INFO]: Max Entity Collisions: 8
+[21:29:37] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[21:29:37] [Server thread/INFO]: Max TNT Explosions: 100
+[21:29:37] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[21:29:37] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[21:29:37] [Server thread/INFO]: Clear tick list: false
+[21:29:37] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:29:37] [Server thread/INFO]: View Distance: 10
+[21:29:37] [Server thread/INFO]: Mob Spawn Range: 4
+[21:29:37] [Server thread/INFO]: Anti X-Ray: true
+[21:29:37] [Server thread/INFO]: 	Engine Mode: 1
+[21:29:37] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[21:29:37] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[21:29:37] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:29:37] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:29:37] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:29:37] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:29:37] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:29:37] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:29:37] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:29:37] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:29:37] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[21:29:37] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:29:37] [Server thread/INFO]: Alternative Hopper Ticking: false
+[21:29:37] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[21:29:37] [Server thread/INFO]: Random Lighting Updates: false
+[21:29:37] [Server thread/INFO]: Structure Info Saving: true
+[21:29:37] [Server thread/INFO]: Sending up to 5 chunks per packet
+[21:29:37] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:29:37] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:29:37] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:29:37] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:29:37] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:29:37] [Server thread/INFO]: Max Entity Collisions: 8
+[21:29:37] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[21:29:37] [Server thread/INFO]: Max TNT Explosions: 100
+[21:29:37] [Server thread/INFO]: Preparing start region for level 0 (Seed: -1062928767620589471)
+[21:29:38] [Server thread/INFO]: Preparing start region for level 1 (Seed: -4252248955666947484)
+[21:29:38] [Server thread/INFO]: Preparing start region for level 2 (Seed: -4252248955666947484)
+[21:29:39] [Server thread/INFO]: [CraftersWorld] Enabling CraftersWorld v1.0-SNAPSHOT-260306
+[21:29:39] [Server thread/INFO]: [CraftersWorld] Plugin CrafterWorld activo
+[21:29:39] [Server thread/INFO]: [SkyWars] Enabling SkyWars v1.0-SNAPSHOT-260306
+[21:29:39] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[21:29:39] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[21:29:39] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.CraftBukkit_v1_7_R4 as the Bukkit adapter
+[21:29:39] [Server thread/INFO]: [ParkourRace] Enabling ParkourRace v1.0-SNAPSHOT-260306
+[21:29:39] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:29:39] [Server thread/INFO]: Done (1,879s)! For help, type "help" or "?"
+[21:29:44] [User Authenticator #1/INFO]: UUID of player CrafterJ94 is 527c0a75-1a0a-4a00-9f79-7fc919946126
+[21:29:44] [Server thread/INFO]: CrafterJ94[/181.52.168.165:18277] logged in with entity id 55 at ([world] 376.0, 53.0, 207.0)
+[21:29:55] [Server thread/INFO]: CrafterJ94 issued server command: /swmap sw3
+[21:29:55] [Server thread/INFO]: -------- World Settings For [sw3] --------
+[21:29:55] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[21:29:55] [Server thread/INFO]: Clear tick list: false
+[21:29:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:29:55] [Server thread/INFO]: View Distance: 10
+[21:29:55] [Server thread/INFO]: Mob Spawn Range: 4
+[21:29:55] [Server thread/INFO]: Anti X-Ray: true
+[21:29:55] [Server thread/INFO]: 	Engine Mode: 1
+[21:29:55] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[21:29:55] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[21:29:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:29:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:29:55] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:29:55] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:29:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:29:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:29:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:29:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:29:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[21:29:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:29:55] [Server thread/INFO]: Alternative Hopper Ticking: false
+[21:29:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[21:29:55] [Server thread/INFO]: Random Lighting Updates: false
+[21:29:55] [Server thread/INFO]: Structure Info Saving: true
+[21:29:55] [Server thread/INFO]: Sending up to 5 chunks per packet
+[21:29:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:29:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:29:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:29:55] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:29:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:29:55] [Server thread/INFO]: Max Entity Collisions: 8
+[21:29:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[21:29:55] [Server thread/INFO]: Max TNT Explosions: 100
+[21:29:55] [Server thread/INFO]: Preparing start region for level 3 (Seed: 4124943850959039660)
+[21:29:56] [Server thread/INFO]: Preparing spawn area for sw3, 4%
+[21:29:57] [Server thread/INFO]: Preparing spawn area for sw3, 12%
+[21:29:58] [Server thread/INFO]: Preparing spawn area for sw3, 20%
+[21:29:59] [Server thread/INFO]: Preparing spawn area for sw3, 28%
+[21:30:00] [Server thread/INFO]: Preparing spawn area for sw3, 44%
+[21:30:01] [Server thread/INFO]: Preparing spawn area for sw3, 52%
+[21:30:02] [Server thread/INFO]: Preparing spawn area for sw3, 73%
+[21:30:56] [User Authenticator #2/INFO]: UUID of player adam2912 is 3f383be9-6ef2-4761-8269-d9f4a8670fa7
+[21:30:56] [Server thread/INFO]: adam2912[/181.50.156.234:18323] logged in with entity id 2049 at ([world] 376.0, 53.0, 207.0)
+[21:30:56] [Server thread/INFO]: adam2912 lost connection: Disconnected
+[21:30:56] [Server thread/INFO]: adam2912 left the game.
+[21:31:02] [Async Chat Thread - #0/INFO]: <CrafterJ94> mansito[m
+[21:31:04] [User Authenticator #3/INFO]: UUID of player adam2912 is 3f383be9-6ef2-4761-8269-d9f4a8670fa7
+[21:31:04] [Server thread/INFO]: adam2912[/181.50.156.234:18326] logged in with entity id 2083 at ([world] 376.0, 53.0, 207.0)
+[21:31:07] [Async Chat Thread - #0/INFO]: <CrafterJ94> entra al mapa[m
+[21:31:11] [Async Chat Thread - #0/INFO]: <CrafterJ94> teleport a mi[m
+[21:31:14] [Server thread/INFO]: adam2912 issued server command: /swmap sw3
+[21:31:39] [Async Chat Thread - #0/INFO]: <CrafterJ94> ya ahora si borra lo que quieras[m
+[21:31:52] [Async Chat Thread - #0/INFO]: <adam2912> xd[m
+[21:32:05] [Async Chat Thread - #0/INFO]: <adam2912> perame pienso como hacerlo[m
+[21:32:09] [Async Chat Thread - #0/INFO]: <CrafterJ94> dale[m
+[21:32:16] [Async Chat Thread - #0/INFO]: <CrafterJ94> voy a traer cafe ya vuelvo[m
+[21:32:19] [Async Chat Thread - #0/INFO]: <adam2912> o[m
+[21:32:20] [Async Chat Thread - #0/INFO]: <adam2912> ok[m
+[21:42:37] [Async Chat Thread - #1/INFO]: <adam2912> man[m
+[21:42:41] [Async Chat Thread - #1/INFO]: <adam2912> descarga un mapa[m
+[21:42:45] [Async Chat Thread - #1/INFO]: <adam2912> unos mapas[m
+[21:42:59] [Async Chat Thread - #1/INFO]: <adam2912> y despues cuando se nos vengan ideas creamos mas[m
+[21:48:50] [Server thread/INFO]: adam2912 issued server command: //up 1
+[21:48:53] [Server thread/INFO]: adam2912 issued server command: /time set day
+[21:48:53] [Server thread/INFO]: adam2912: Set time to 0[m
+[21:49:04] [Server thread/INFO]: adam2912 issued server command: /time set day
+[21:49:04] [Server thread/INFO]: adam2912: Set time to 0[m
+[21:49:05] [Server thread/INFO]: adam2912 issued server command: //up 1
+[21:49:18] [Server thread/INFO]: adam2912 issued server command: //set 0
+[21:49:33] [Server thread/INFO]: adam2912 issued server command: //up 1
+[21:49:41] [Server thread/INFO]: adam2912 issued server command: //up 1
+[21:49:43] [Server thread/INFO]: adam2912 issued server command: //set 0
+[21:49:52] [Server thread/INFO]: adam2912 issued server command: //up 1
+[21:50:01] [Server thread/INFO]: adam2912 issued server command: //hcyl 30
+[21:50:04] [Server thread/INFO]: adam2912 issued server command: //hcyl 1 30
+[21:52:46] [Async Chat Thread - #2/INFO]: <adam2912> ve man[m
+[21:56:41] [Async Chat Thread - #3/INFO]: <CrafterJ94> ya regrese[m
+[21:58:00] [Async Chat Thread - #4/INFO]: <adam2912> xd[m
+[21:58:02] [Async Chat Thread - #4/INFO]: <adam2912> man[m
+[21:58:02] [Async Chat Thread - #4/INFO]: <CrafterJ94> xd[m
+[21:58:07] [Async Chat Thread - #4/INFO]: <CrafterJ94> que[m
+[21:58:07] [Async Chat Thread - #4/INFO]: <adam2912> vas a hacer el mapa?[m
+[21:58:22] [Async Chat Thread - #4/INFO]: <CrafterJ94> no, yo no soy constructor mansito[m
+[21:58:26] [Async Chat Thread - #4/INFO]: <adam2912> jaja[m
+[21:58:26] [Async Chat Thread - #4/INFO]: <CrafterJ94> jajaja[m
+[21:58:34] [Async Chat Thread - #4/INFO]: <adam2912> entonces esperame pienso[m
+[21:58:38] [Async Chat Thread - #4/INFO]: <CrafterJ94> dale[m
+[21:58:46] [Async Chat Thread - #4/INFO]: <adam2912> descargate un mapa que se llama trees[m
+[21:58:54] [Async Chat Thread - #4/INFO]: <adam2912> ese lo pones que es bien pro[m
+[21:59:03] [Async Chat Thread - #4/INFO]: <CrafterJ94> ya miraste el otro mapa[m
+[21:59:06] [Async Chat Thread - #4/INFO]: <CrafterJ94> el sw1[m
+[21:59:09] [Async Chat Thread - #4/INFO]: <CrafterJ94> ?[m
+[21:59:22] [Async Chat Thread - #4/INFO]: <adam2912> si[m
+[21:59:30] [Server thread/INFO]: adam2912 issued server command: /lobby
+[21:59:30] [Server thread/ERROR]: Could not pass event PlayerTeleportEvent to SkyWars v1.0-SNAPSHOT-260306
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[Spigot.jar:git-Spigot-1649]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[Spigot.jar:git-Spigot-1649]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:514) [Spigot.jar:git-Spigot-1649]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:499) [Spigot.jar:git-Spigot-1649]
+	at org.bukkit.craftbukkit.v1_7_R4.entity.CraftPlayer.teleport(CraftPlayer.java:484) [Spigot.jar:git-Spigot-1649]
+	at org.bukkit.craftbukkit.v1_7_R4.entity.CraftEntity.teleport(CraftEntity.java:200) [Spigot.jar:git-Spigot-1649]
+	at com.ing3ns.craftersworld.Comando.onCommand(Comando.java:24) [CraftersWorld.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) [Spigot.jar:git-Spigot-1649]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:181) [Spigot.jar:git-Spigot-1649]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.dispatchCommand(CraftServer.java:767) [Spigot.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.PlayerConnection.handleCommand(PlayerConnection.java:1043) [Spigot.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.PlayerConnection.a(PlayerConnection.java:880) [Spigot.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.PacketPlayInChat.a(PacketPlayInChat.java:28) [Spigot.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.PacketPlayInChat.handle(PacketPlayInChat.java:65) [Spigot.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.NetworkManager.a(NetworkManager.java:186) [Spigot.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.ServerConnection.c(ServerConnection.java:81) [Spigot.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.v(MinecraftServer.java:734) [Spigot.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:289) [Spigot.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:584) [Spigot.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:490) [Spigot.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [Spigot.jar:git-Spigot-1649]
+Caused by: java.lang.ClassCastException: org.bukkit.craftbukkit.v1_7_R4.block.CraftBlockState cannot be cast to org.bukkit.block.Sign
+	at com.ing3ns.skywars.PlayerListener.PlayerTeleporEvent(PlayerListener.java:66) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_77]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_77]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_77]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_77]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:298) ~[Spigot.jar:git-Spigot-1649]
+	... 20 more
+[21:59:31] [Async Chat Thread - #4/INFO]: <CrafterJ94> ese no es trees?[m
+[21:59:37] [Server thread/INFO]: -------- World Settings For [sw1] --------
+[21:59:37] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[21:59:37] [Server thread/INFO]: Clear tick list: false
+[21:59:37] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:59:37] [Server thread/INFO]: View Distance: 10
+[21:59:37] [Server thread/INFO]: Mob Spawn Range: 4
+[21:59:37] [Server thread/INFO]: Anti X-Ray: true
+[21:59:37] [Server thread/INFO]: 	Engine Mode: 1
+[21:59:37] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[21:59:37] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[21:59:37] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:59:37] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:59:37] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:59:37] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:59:37] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:59:37] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:59:37] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:59:37] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:59:37] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[21:59:37] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:59:37] [Server thread/INFO]: Alternative Hopper Ticking: false
+[21:59:37] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[21:59:37] [Server thread/INFO]: Random Lighting Updates: false
+[21:59:37] [Server thread/INFO]: Structure Info Saving: true
+[21:59:37] [Server thread/INFO]: Sending up to 5 chunks per packet
+[21:59:37] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:59:37] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:59:37] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:59:37] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:59:37] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:59:37] [Server thread/INFO]: Max Entity Collisions: 8
+[21:59:37] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[21:59:37] [Server thread/INFO]: Max TNT Explosions: 100
+[21:59:37] [Server thread/INFO]: Preparing start region for level 4 (Seed: 3320345425810525056)
+[21:59:38] [Server thread/INFO]: [SkyWars] JUEGO SKYWARS EN ESPERA
+[21:59:41] [Server thread/INFO]: CrafterJ94 issued server command: /tp Mordax117
+[21:59:51] [Server thread/INFO]: CrafterJ94 issued server command: /tp adam2912
+[21:59:51] [Server thread/INFO]: CrafterJ94: Teleported CrafterJ94 to adam2912[m
+[21:59:55] [Async Chat Thread - #4/INFO]: <adam2912> ese no es trees[m
+[22:00:03] [Async Chat Thread - #4/INFO]: <adam2912> el de trees es simple y bien hecho[m
+[22:00:10] [Async Chat Thread - #4/INFO]: <CrafterJ94> dale[m
+[22:00:11] [Async Chat Thread - #4/INFO]: <adam2912> este esta feo[m
+[22:00:14] [Async Chat Thread - #4/INFO]: <adam2912> quitalo[m
+[22:00:23] [Async Chat Thread - #4/INFO]: <CrafterJ94> dale[m
+[22:00:28] [Server thread/INFO]: adam2912 issued server command: /lobby
+[22:00:31] [Async Chat Thread - #4/INFO]: <CrafterJ94> entonces encontra los mapas[m
+[22:00:38] [Async Chat Thread - #4/INFO]: <adam2912> voy a escuchar musica[m
+[22:00:39] [Async Chat Thread - #4/INFO]: <adam2912> dale[m
+[22:00:44] [Async Chat Thread - #4/INFO]: <adam2912> ya te paso el mapa[m
+[22:00:45] [Async Chat Thread - #4/INFO]: <CrafterJ94> y me mandas los links[m
+[22:00:49] [Async Chat Thread - #4/INFO]: <adam2912> ok[m
+[22:01:02] [Async Chat Thread - #4/INFO]: <adam2912> voy a escuchar taylor swift xd[m
+[22:01:04] [Async Chat Thread - #4/INFO]: <adam2912> jaja[m
+[22:01:08] [Async Chat Thread - #4/INFO]: <adam2912> no mentira[m
+[22:01:33] [Async Chat Thread - #4/INFO]: <CrafterJ94> jajajaj escuchate Fais ft Afrojack- Hey[m
+[22:02:30] [Server thread/INFO]: CrafterJ94 issued server command: /lobby
+[22:02:38] [Async Chat Thread - #5/INFO]: <adam2912> dale[m
+[22:02:46] [Async Chat Thread - #5/INFO]: <adam2912> ya te paso el link[m
+[22:04:45] [Async Chat Thread - #6/INFO]: <adam2912> esa cancion de afrojack no me gusto jaja xd[m
+[22:05:09] [Async Chat Thread - #6/INFO]: <CrafterJ94> uuu entonces escucha tu musica, de los idelaes del oriente[m
+[22:05:14] [Async Chat Thread - #6/INFO]: <adam2912> jaja[m
+[22:05:26] [Async Chat Thread - #6/INFO]: <adam2912> una cancion pro es radicative[m
+[22:05:40] [Async Chat Thread - #6/INFO]: <adam2912> una cancion pro es radioactive*[m
+[22:14:43] [Server thread/INFO]: adam2912 lost connection: Disconnected
+[22:14:43] [Server thread/INFO]: adam2912 left the game.
+[22:14:52] [User Authenticator #4/INFO]: UUID of player adam2912 is 3f383be9-6ef2-4761-8269-d9f4a8670fa7
+[22:14:53] [Server thread/INFO]: adam2912[/181.50.156.234:18784] logged in with entity id 7445 at ([world] 376.0, 53.0, 207.0)
+[22:18:18] [Server thread/INFO]: Letrero creado para:trees[m
+[22:18:22] [Server thread/INFO]: Debug logging is disabled
+[22:18:22] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:18:22] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:18:22] [Server thread/INFO]: -------- World Settings For [world] --------
+[22:18:22] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[22:18:22] [Server thread/INFO]: Clear tick list: false
+[22:18:22] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:18:22] [Server thread/INFO]: View Distance: 10
+[22:18:22] [Server thread/INFO]: Mob Spawn Range: 4
+[22:18:22] [Server thread/INFO]: Anti X-Ray: true
+[22:18:22] [Server thread/INFO]: 	Engine Mode: 1
+[22:18:22] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:18:22] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[22:18:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:18:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:18:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:18:22] [Server thread/INFO]: Alternative Hopper Ticking: false
+[22:18:22] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:18:22] [Server thread/INFO]: Random Lighting Updates: false
+[22:18:22] [Server thread/INFO]: Structure Info Saving: true
+[22:18:22] [Server thread/INFO]: Sending up to 5 chunks per packet
+[22:18:22] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:18:22] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:18:22] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:18:22] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:18:22] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:18:22] [Server thread/INFO]: Max Entity Collisions: 8
+[22:18:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:18:22] [Server thread/INFO]: Max TNT Explosions: 100
+[22:18:22] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[22:18:22] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[22:18:22] [Server thread/INFO]: Clear tick list: false
+[22:18:22] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:18:22] [Server thread/INFO]: View Distance: 10
+[22:18:22] [Server thread/INFO]: Mob Spawn Range: 4
+[22:18:22] [Server thread/INFO]: Anti X-Ray: true
+[22:18:22] [Server thread/INFO]: 	Engine Mode: 1
+[22:18:22] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:18:22] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[22:18:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:18:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:18:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:18:22] [Server thread/INFO]: Alternative Hopper Ticking: false
+[22:18:22] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:18:22] [Server thread/INFO]: Random Lighting Updates: false
+[22:18:22] [Server thread/INFO]: Structure Info Saving: true
+[22:18:22] [Server thread/INFO]: Sending up to 5 chunks per packet
+[22:18:22] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:18:22] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:18:22] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:18:22] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:18:22] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:18:22] [Server thread/INFO]: Max Entity Collisions: 8
+[22:18:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:18:22] [Server thread/INFO]: Max TNT Explosions: 100
+[22:18:22] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[22:18:22] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[22:18:22] [Server thread/INFO]: Clear tick list: false
+[22:18:22] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:18:22] [Server thread/INFO]: View Distance: 10
+[22:18:22] [Server thread/INFO]: Mob Spawn Range: 4
+[22:18:22] [Server thread/INFO]: Anti X-Ray: true
+[22:18:22] [Server thread/INFO]: 	Engine Mode: 1
+[22:18:22] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:18:22] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[22:18:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:18:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:18:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:18:22] [Server thread/INFO]: Alternative Hopper Ticking: false
+[22:18:22] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:18:22] [Server thread/INFO]: Random Lighting Updates: false
+[22:18:22] [Server thread/INFO]: Structure Info Saving: true
+[22:18:22] [Server thread/INFO]: Sending up to 5 chunks per packet
+[22:18:22] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:18:22] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:18:22] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:18:22] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:18:22] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:18:22] [Server thread/INFO]: Max Entity Collisions: 8
+[22:18:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:18:22] [Server thread/INFO]: Max TNT Explosions: 100
+[22:18:22] [Server thread/INFO]: -------- World Settings For [sw3] --------
+[22:18:22] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[22:18:22] [Server thread/INFO]: Clear tick list: false
+[22:18:22] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:18:22] [Server thread/INFO]: View Distance: 10
+[22:18:22] [Server thread/INFO]: Mob Spawn Range: 4
+[22:18:22] [Server thread/INFO]: Anti X-Ray: true
+[22:18:22] [Server thread/INFO]: 	Engine Mode: 1
+[22:18:22] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:18:22] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[22:18:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:18:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:18:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:18:22] [Server thread/INFO]: Alternative Hopper Ticking: false
+[22:18:22] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:18:22] [Server thread/INFO]: Random Lighting Updates: false
+[22:18:22] [Server thread/INFO]: Structure Info Saving: true
+[22:18:22] [Server thread/INFO]: Sending up to 5 chunks per packet
+[22:18:22] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:18:22] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:18:22] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:18:22] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:18:22] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:18:22] [Server thread/INFO]: Max Entity Collisions: 8
+[22:18:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:18:22] [Server thread/INFO]: Max TNT Explosions: 100
+[22:18:22] [Server thread/INFO]: -------- World Settings For [sw1] --------
+[22:18:22] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[22:18:22] [Server thread/INFO]: Clear tick list: false
+[22:18:22] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:18:22] [Server thread/INFO]: View Distance: 10
+[22:18:22] [Server thread/INFO]: Mob Spawn Range: 4
+[22:18:22] [Server thread/INFO]: Anti X-Ray: true
+[22:18:22] [Server thread/INFO]: 	Engine Mode: 1
+[22:18:22] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:18:22] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[22:18:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:18:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:18:22] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:18:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:18:22] [Server thread/INFO]: Alternative Hopper Ticking: false
+[22:18:22] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:18:22] [Server thread/INFO]: Random Lighting Updates: false
+[22:18:22] [Server thread/INFO]: Structure Info Saving: true
+[22:18:22] [Server thread/INFO]: Sending up to 5 chunks per packet
+[22:18:22] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:18:22] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:18:22] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:18:22] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:18:22] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:18:22] [Server thread/INFO]: Max Entity Collisions: 8
+[22:18:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:18:22] [Server thread/INFO]: Max TNT Explosions: 100
+[22:18:22] [Server thread/INFO]: [ParkourRace] Disabling ParkourRace v1.0-SNAPSHOT-260306
+[22:18:22] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[22:18:22] [Server thread/INFO]: [SkyWars] Disabling SkyWars v1.0-SNAPSHOT-260306
+[22:18:22] [Server thread/INFO]: [CraftersWorld] Disabling CraftersWorld v1.0-SNAPSHOT-260306
+[22:18:22] [Server thread/INFO]: [CraftersWorld] Plugin CrafterWorld desactivado
+[22:18:22] [Server thread/INFO]: [CraftersWorld] Adios
+[22:18:22] [Server thread/INFO]: [CraftersWorld] Loading CraftersWorld v1.0-SNAPSHOT-260306
+[22:18:22] [Server thread/INFO]: [SkyWars] Loading SkyWars v1.0-SNAPSHOT-260306
+[22:18:22] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[22:18:22] [Server thread/INFO]: [ParkourRace] Loading ParkourRace v1.0-SNAPSHOT-260306
+[22:18:22] [Server thread/INFO]: [CraftersWorld] Enabling CraftersWorld v1.0-SNAPSHOT-260306
+[22:18:22] [Server thread/INFO]: [CraftersWorld] Plugin CrafterWorld activo
+[22:18:22] [Server thread/INFO]: [SkyWars] Enabling SkyWars v1.0-SNAPSHOT-260306
+[22:18:22] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[22:18:22] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[22:18:22] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.CraftBukkit_v1_7_R4 as the Bukkit adapter
+[22:18:22] [Server thread/INFO]: [ParkourRace] Enabling ParkourRace v1.0-SNAPSHOT-260306
+[22:18:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:18:22] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[22:18:31] [Server thread/INFO]: CrafterJ94 issued server command: /swmap trees
+[22:18:31] [Server thread/INFO]: -------- World Settings For [trees] --------
+[22:18:31] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[22:18:31] [Server thread/INFO]: Clear tick list: false
+[22:18:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:18:31] [Server thread/INFO]: View Distance: 10
+[22:18:31] [Server thread/INFO]: Mob Spawn Range: 4
+[22:18:31] [Server thread/INFO]: Anti X-Ray: true
+[22:18:31] [Server thread/INFO]: 	Engine Mode: 1
+[22:18:31] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:18:31] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[22:18:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:18:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:18:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:18:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:18:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:18:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:18:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:18:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:18:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:18:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:18:31] [Server thread/INFO]: Alternative Hopper Ticking: false
+[22:18:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:18:31] [Server thread/INFO]: Random Lighting Updates: false
+[22:18:31] [Server thread/INFO]: Structure Info Saving: true
+[22:18:31] [Server thread/INFO]: Sending up to 5 chunks per packet
+[22:18:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:18:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:18:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:18:31] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:18:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:18:31] [Server thread/INFO]: Max Entity Collisions: 8
+[22:18:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:18:31] [Server thread/INFO]: Max TNT Explosions: 100
+[22:18:31] [Server thread/INFO]: Preparing start region for level 5 (Seed: 0)
+[22:18:31] [Server thread/WARN]: Skipping Entity with id Rabbit
+[22:18:31] [Server thread/WARN]: Skipping Entity with id Rabbit
+[22:18:31] [Server thread/WARN]: Skipping Entity with id Rabbit
+[22:18:50] [Async Chat Thread - #7/INFO]: <CrafterJ94> man[m
+[22:18:54] [Server thread/INFO]: adam2912 issued server command: /time set day
+[22:18:54] [Server thread/INFO]: adam2912: Set time to 0[m
+[22:18:57] [Async Chat Thread - #7/INFO]: <CrafterJ94> teleportiate[m
+[22:19:01] [Async Chat Thread - #7/INFO]: <CrafterJ94> a donde estor[m
+[22:19:10] [Async Chat Thread - #7/INFO]: <adam2912> ya voy[m
+[22:19:12] [Async Chat Thread - #7/INFO]: <CrafterJ94> tp[m
+[22:19:14] [Server thread/INFO]: adam2912 issued server command: /tp CrafterJ94
+[22:19:14] [Server thread/INFO]: adam2912: Teleported adam2912 to CrafterJ94[m
+[22:19:24] [Async Chat Thread - #7/INFO]: <adam2912> uufque mapota[m
+[22:19:27] [Server thread/INFO]: CrafterJ94 issued server command: /save-all
+[22:19:27] [Server thread/INFO]: CrafterJ94: Forcing save..[m
+[22:19:27] [Server thread/INFO]: CrafterJ94: Save complete.[m
+[22:19:41] [Async Chat Thread - #7/INFO]: <adam2912> man[m
+[22:19:47] [Async Chat Thread - #7/INFO]: <adam2912> ponete shaders[m
+[22:19:51] [Async Chat Thread - #7/INFO]: <CrafterJ94> que es eso?[m
+[22:20:02] [Async Chat Thread - #7/INFO]: <adam2912> para que el minecraft se mire mas real[m
+[22:20:06] [Async Chat Thread - #7/INFO]: <CrafterJ94> ve mansito y todos los server tienen los mismo mapas?[m
+[22:20:16] [Async Chat Thread - #7/INFO]: <adam2912> algunos[m
+[22:20:22] [Async Chat Thread - #7/INFO]: <CrafterJ94> premium me refiero[m
+[22:20:36] [Async Chat Thread - #7/INFO]: <adam2912> no[m
+[22:20:37] [Async Chat Thread - #7/INFO]: <CrafterJ94> los no premium obvio que son las meras copias[m
+[22:20:55] [Async Chat Thread - #7/INFO]: <CrafterJ94> pero los premium tiene mapas copiados?[m
+[22:20:59] [Async Chat Thread - #7/INFO]: <adam2912> no[m
+[22:21:05] [Async Chat Thread - #7/INFO]: <adam2912> no se[m
+[22:21:06] [Async Chat Thread - #7/INFO]: <adam2912> xd[m
+[22:21:18] [Async Chat Thread - #7/INFO]: <CrafterJ94> entonces disfruta este mapa porque va ser el unico que te dejo copiar[m
+[22:21:24] [Async Chat Thread - #7/INFO]: <adam2912> si[m
+[22:21:57] [Async Chat Thread - #7/INFO]: <adam2912> ponete shaders man[m
+[22:21:59] [Async Chat Thread - #7/INFO]: <adam2912> xd[m
+[22:22:06] [Async Chat Thread - #7/INFO]: <CrafterJ94> que como hago[m
+[22:22:12] [Async Chat Thread - #7/INFO]: <adam2912> dale en youtube[m
+[22:22:13] [Async Chat Thread - #7/INFO]: <CrafterJ94> click derecho poner shaders?[m
+[22:22:23] [Async Chat Thread - #7/INFO]: <adam2912> como poner shaders CON OPTIFINE[m
+[22:22:30] [Async Chat Thread - #7/INFO]: <adam2912> busca eso en yt[m
+[22:22:39] [Async Chat Thread - #7/INFO]: <CrafterJ94> otro dia que vengas me pones eso vos[m
+[22:22:41] [Async Chat Thread - #7/INFO]: <adam2912> a tu pc si le a de ir bien los shaders[m
+[22:22:42] [Async Chat Thread - #7/INFO]: <adam2912> dale[m
+[22:23:22] [Async Chat Thread - #7/INFO]: <CrafterJ94> mansito, si no vas a hacer mas mapas, chao mansito, porque no estamos haciendo nada jajajaj[m
+[22:24:37] [Async Chat Thread - #8/INFO]: <CrafterJ94> conseguiraste mansitos que construyan, o sino los consigo yo pero te quitan el puesto de admin jajaj[m
+[22:24:58] [Server thread/INFO]: CrafterJ94 issued server command: /lobby
+[22:27:10] [Server thread/INFO]: CrafterJ94 lost connection: Disconnected
+[22:27:10] [Server thread/INFO]: CrafterJ94 left the game.

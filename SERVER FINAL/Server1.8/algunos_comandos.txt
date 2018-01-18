@@ -1,0 +1,14 @@
+if(sender instanceof Player){
+                        p1.sendMessage("Bienvenido jugador");
+                    }else{
+                        p1.sendMessage("Soy la consola");
+                    }
+
+HashMap<UUID,PermissionAttachment> attachments = new HashMap<>();
+//Permisos
+            //PermissionAttachment attachment = p1.addAttachment(plugin);
+            //attachment.setPermission("youtuber.claseA",false);
+            //attachment.setPermission("youtuber.claseB",false);
+            //attachments.put(p1.getUniqueId(), attachment);
+            
+            //p1.removeAttachment(attachments.get(p1.getUniqueId()));

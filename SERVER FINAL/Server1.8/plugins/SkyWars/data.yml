@@ -1,0 +1,74 @@
+mapas:
+  mapa1:
+    spawns:
+      spawn1:
+        x: 16
+        y: 82
+        z: 30
+      spawn2:
+        x: 30
+        y: 82
+        z: 16
+      spawn3:
+        x: 40
+        y: 82
+        z: 0
+      spawn4:
+        x: 30
+        y: 82
+        z: -16
+      spawn5:
+        x: 16
+        y: 82
+        z: -30
+      numero: 12
+      spawn6:
+        x: 0
+        y: 82
+        z: -40
+      spawn7:
+        x: -16
+        y: 82
+        z: -30
+      spawn8:
+        x: -30
+        y: 82
+        z: -16
+      spawn9:
+        x: -40
+        y: 82
+        z: 0
+      spawn10:
+        x: -30
+        y: 82
+        z: 16
+      spawn11:
+        x: -16
+        y: 82
+        z: 30
+      spawn12:
+        x: 0
+        y: 82
+        z: 40
+    nombre: sw1
+    x: 423
+    y: 55
+    z: 225
+  numero: 5
+  mapa2:
+    spawns:
+      spawn1: {}
+    nombre: SkyblockWar
+    x: 423
+    y: 55
+    z: 226
+  mapa3:
+    nombre: sw3
+    x: 423
+    y: 55
+    z: 227
+  mapa4:
+    nombre: trees
+    x: 423
+    y: 55
+    z: 227
