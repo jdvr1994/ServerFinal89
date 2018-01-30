@@ -95,3 +95,9 @@ mapas:
     x: 423
     y: 55
     z: 207
+  
+  mapa4:
+    nombre: world
+    x: 423
+    y: 55
+    z: 200
